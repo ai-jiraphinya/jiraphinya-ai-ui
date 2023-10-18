@@ -173,7 +173,7 @@ Repo นี้รวบรวมยูทิลิตี้ที่เกี่
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
 Awesome-AITools Discord Link: https://discord.gg/7hAvJQME
-<head> 
+[[<head> 
   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jiraphinyas" data-color="#FF5F5F" data-      
    emoji="" data-font="Cookie" data-text="เลี้ยงชานมเย็นน้องมินม" data-outline-color="#000000" data-font-color= "#ffffff" data-coffee-color="#FFDD00" ></script>
-</head>
+</head](https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif)>](https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif)https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif
